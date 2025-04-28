@@ -1,0 +1,432 @@
+[
+    {
+        "id": "5ed70b9a",
+        "timestamp": "2025-04-28 14:21:25",
+        "error_type": "ValueError",
+        "error_message": "could not convert string to float: 'male'",
+        "context": "visualization_page",
+        "user_inputs": {},
+        "browser_info": "Unknown",
+        "app_version": "2.5.0"
+    },
+    {
+        "id": "f6fc3a76",
+        "timestamp": "2025-04-28 14:21:47",
+        "error_type": "ValueError",
+        "error_message": "could not convert string to float: 'male'",
+        "context": "visualization_page",
+        "user_inputs": {},
+        "browser_info": "Unknown",
+        "app_version": "2.5.0"
+    },
+    {
+        "id": "04ae9c23",
+        "timestamp": "2025-04-28 14:21:53",
+        "error_type": "ValueError",
+        "error_message": "could not convert string to float: 'male'",
+        "context": "visualization_page",
+        "user_inputs": {},
+        "browser_info": "Unknown",
+        "app_version": "2.5.0"
+    },
+    {
+        "id": "28825627",
+        "timestamp": "2025-04-28 14:22:13",
+        "error_type": "ValueError",
+        "error_message": "could not convert string to float: 'male'",
+        "context": "visualization_page",
+        "user_inputs": {},
+        "browser_info": "Unknown",
+        "app_version": "2.5.0"
+    },
+    {
+        "id": "2945177f",
+        "timestamp": "2025-04-28 14:22:24",
+        "error_type": "ValueError",
+        "error_message": "could not convert string to float: 'male'",
+        "context": "visualization_page",
+        "user_inputs": {},
+        "browser_info": "Unknown",
+        "app_version": "2.5.0"
+    },
+    {
+        "id": "706cf42d",
+        "timestamp": "2025-04-28 14:22:39",
+        "error_type": "ValueError",
+        "error_message": "could not convert string to float: 'female'",
+        "context": "visualization_page",
+        "user_inputs": {},
+        "browser_info": "Unknown",
+        "app_version": "2.5.0"
+    },
+    {
+        "id": "49573b4b",
+        "timestamp": "2025-04-28 14:22:42",
+        "error_type": "ValueError",
+        "error_message": "could not convert string to float: 'female'",
+        "context": "visualization_page",
+        "user_inputs": {},
+        "browser_info": "Unknown",
+        "app_version": "2.5.0"
+    },
+    {
+        "id": "a6385145",
+        "timestamp": "2025-04-28 14:22:46",
+        "error_type": "ValueError",
+        "error_message": "could not convert string to float: 'female'",
+        "context": "visualization_page",
+        "user_inputs": {},
+        "browser_info": "Unknown",
+        "app_version": "2.5.0"
+    },
+    {
+        "id": "7a4f34ca",
+        "timestamp": "2025-04-28 14:22:56",
+        "error_type": "ValueError",
+        "error_message": "could not convert string to float: 'female'",
+        "context": "visualization_page",
+        "user_inputs": {},
+        "browser_info": "Unknown",
+        "app_version": "2.5.0"
+    },
+    {
+        "id": "d620381b",
+        "timestamp": "2025-04-28 14:23:02",
+        "error_type": "ValueError",
+        "error_message": "could not convert string to float: 'female'",
+        "context": "visualization_page",
+        "user_inputs": {},
+        "browser_info": "Unknown",
+        "app_version": "2.5.0"
+    },
+    {
+        "id": "58f0ad43",
+        "timestamp": "2025-04-28 14:23:18",
+        "error_type": "ValueError",
+        "error_message": "could not convert string to float: 'female'",
+        "context": "visualization_page",
+        "user_inputs": {},
+        "browser_info": "Unknown",
+        "app_version": "2.5.0"
+    },
+    {
+        "id": "c86e74fb",
+        "timestamp": "2025-04-28 14:23:21",
+        "error_type": "ValueError",
+        "error_message": "could not convert string to float: 'female'",
+        "context": "visualization_page",
+        "user_inputs": {},
+        "browser_info": "Unknown",
+        "app_version": "2.5.0"
+    },
+    {
+        "id": "72649679",
+        "timestamp": "2025-04-28 14:23:27",
+        "error_type": "ValueError",
+        "error_message": "could not convert string to float: 'female'",
+        "context": "visualization_page",
+        "user_inputs": {},
+        "browser_info": "Unknown",
+        "app_version": "2.5.0"
+    },
+    {
+        "id": "4eb2517f",
+        "timestamp": "2025-04-28 14:23:39",
+        "error_type": "ValueError",
+        "error_message": "could not convert string to float: 'female'",
+        "context": "visualization_page",
+        "user_inputs": {},
+        "browser_info": "Unknown",
+        "app_version": "2.5.0"
+    },
+    {
+        "id": "89b2fc3d",
+        "timestamp": "2025-04-28 14:23:50",
+        "error_type": "ValueError",
+        "error_message": "could not convert string to float: 'female'",
+        "context": "visualization_page",
+        "user_inputs": {},
+        "browser_info": "Unknown",
+        "app_version": "2.5.0"
+    },
+    {
+        "id": "74519868",
+        "timestamp": "2025-04-28 14:23:54",
+        "error_type": "ValueError",
+        "error_message": "could not convert string to float: 'female'",
+        "context": "visualization_page",
+        "user_inputs": {},
+        "browser_info": "Unknown",
+        "app_version": "2.5.0"
+    },
+    {
+        "id": "a9dc8a12",
+        "timestamp": "2025-04-28 14:24:00",
+        "error_type": "ValueError",
+        "error_message": "could not convert string to float: 'female'",
+        "context": "visualization_page",
+        "user_inputs": {},
+        "browser_info": "Unknown",
+        "app_version": "2.5.0"
+    },
+    {
+        "id": "513b1cce",
+        "timestamp": "2025-04-28 14:24:37",
+        "error_type": "ValueError",
+        "error_message": "Specifying the columns using strings is only supported for pandas DataFrames",
+        "context": "prediction_flow",
+        "user_inputs": {},
+        "browser_info": "Unknown",
+        "app_version": "2.5.0"
+    },
+    {
+        "id": "9b2bd8a2",
+        "timestamp": "2025-04-28 14:37:00",
+        "error_type": "ValueError",
+        "error_message": "X does not contain any features, but ColumnTransformer is expecting 6 features",
+        "context": "prediction_flow",
+        "user_inputs": {},
+        "browser_info": "Unknown",
+        "app_version": "2.5.0"
+    },
+    {
+        "id": "104c089b",
+        "timestamp": "2025-04-28 14:37:03",
+        "error_type": "ValueError",
+        "error_message": "X does not contain any features, but ColumnTransformer is expecting 6 features",
+        "context": "prediction_flow",
+        "user_inputs": {},
+        "browser_info": "Unknown",
+        "app_version": "2.5.0"
+    },
+    {
+        "id": "13d232e2",
+        "timestamp": "2025-04-28 14:39:43",
+        "error_type": "ValueError",
+        "error_message": "could not convert string to float: 'male'",
+        "context": "visualization_page",
+        "user_inputs": {},
+        "browser_info": "Unknown",
+        "app_version": "2.5.0"
+    },
+    {
+        "id": "eb99b9f5",
+        "timestamp": "2025-04-28 14:42:22",
+        "error_type": "ValueError",
+        "error_message": "could not convert string to float: 'male'",
+        "context": "visualization_page",
+        "user_inputs": {},
+        "browser_info": "Unknown",
+        "app_version": "2.5.0"
+    },
+    {
+        "id": "a23046f6",
+        "timestamp": "2025-04-28 14:42:32",
+        "error_type": "ValueError",
+        "error_message": "could not convert string to float: 'male'",
+        "context": "visualization_page",
+        "user_inputs": {},
+        "browser_info": "Unknown",
+        "app_version": "2.5.0"
+    },
+    {
+        "id": "067ef296",
+        "timestamp": "2025-04-28 14:42:40",
+        "error_type": "ValueError",
+        "error_message": "could not convert string to float: 'male'",
+        "context": "visualization_page",
+        "user_inputs": {},
+        "browser_info": "Unknown",
+        "app_version": "2.5.0"
+    },
+    {
+        "id": "f1f8d11c",
+        "timestamp": "2025-04-28 14:45:07",
+        "error_type": "ValueError",
+        "error_message": "could not convert string to float: 'male'",
+        "context": "visualization_page",
+        "user_inputs": {},
+        "browser_info": "Unknown",
+        "app_version": "2.5.0"
+    },
+    {
+        "id": "aa6f4bdb",
+        "timestamp": "2025-04-28 14:45:18",
+        "error_type": "ValueError",
+        "error_message": "X does not contain any features, but ColumnTransformer is expecting 6 features",
+        "context": "prediction_flow",
+        "user_inputs": {},
+        "browser_info": "Unknown",
+        "app_version": "2.5.0"
+    },
+    {
+        "id": "62f318cd",
+        "timestamp": "2025-04-28 14:46:16",
+        "error_type": "ValueError",
+        "error_message": "could not convert string to float: 'male'",
+        "context": "visualization_page",
+        "user_inputs": {},
+        "browser_info": "Unknown",
+        "app_version": "2.5.0"
+    },
+    {
+        "id": "541f0ef6",
+        "timestamp": "2025-04-28 14:46:55",
+        "error_type": "ValueError",
+        "error_message": "could not convert string to float: 'male'",
+        "context": "visualization_page",
+        "user_inputs": {},
+        "browser_info": "Unknown",
+        "app_version": "2.5.0"
+    },
+    {
+        "id": "cd46dd62",
+        "timestamp": "2025-04-28 14:49:02",
+        "error_type": "ValueError",
+        "error_message": "could not convert string to float: 'male'",
+        "context": "visualization_page",
+        "user_inputs": {},
+        "browser_info": "Unknown",
+        "app_version": "2.5.0"
+    },
+    {
+        "id": "8791d7f7",
+        "timestamp": "2025-04-28 14:49:30",
+        "error_type": "ValueError",
+        "error_message": "X does not contain any features, but ColumnTransformer is expecting 6 features",
+        "context": "prediction_flow",
+        "user_inputs": {},
+        "browser_info": "Unknown",
+        "app_version": "2.5.0"
+    },
+    {
+        "id": "e07d0e46",
+        "timestamp": "2025-04-28 14:49:41",
+        "error_type": "ValueError",
+        "error_message": "X does not contain any features, but ColumnTransformer is expecting 6 features",
+        "context": "prediction_flow",
+        "user_inputs": {},
+        "browser_info": "Unknown",
+        "app_version": "2.5.0"
+    },
+    {
+        "id": "397b8eda",
+        "timestamp": "2025-04-28 14:50:34",
+        "error_type": "ValueError",
+        "error_message": "X has 9 features, but ColumnTransformer is expecting 6 features as input.",
+        "context": "prediction_flow",
+        "user_inputs": {},
+        "browser_info": "Unknown",
+        "app_version": "2.5.0"
+    },
+    {
+        "id": "9abc33ff",
+        "timestamp": "2025-04-28 14:50:37",
+        "error_type": "ValueError",
+        "error_message": "X has 9 features, but ColumnTransformer is expecting 6 features as input.",
+        "context": "prediction_flow",
+        "user_inputs": {},
+        "browser_info": "Unknown",
+        "app_version": "2.5.0"
+    },
+    {
+        "id": "1a6cd10a",
+        "timestamp": "2025-04-28 14:50:44",
+        "error_type": "ValueError",
+        "error_message": "X has 9 features, but ColumnTransformer is expecting 6 features as input.",
+        "context": "prediction_flow",
+        "user_inputs": {},
+        "browser_info": "Unknown",
+        "app_version": "2.5.0"
+    },
+    {
+        "id": "3d154c80",
+        "timestamp": "2025-04-28 14:50:57",
+        "error_type": "ValueError",
+        "error_message": "X has 9 features, but ColumnTransformer is expecting 6 features as input.",
+        "context": "prediction_flow",
+        "user_inputs": {},
+        "browser_info": "Unknown",
+        "app_version": "2.5.0"
+    },
+    {
+        "id": "c167ada2",
+        "timestamp": "2025-04-28 14:56:19",
+        "error_type": "ValueError",
+        "error_message": "could not convert string to float: 'male'",
+        "context": "visualization_page",
+        "user_inputs": {},
+        "browser_info": "Unknown",
+        "app_version": "2.5.0"
+    },
+    {
+        "id": "20c3c8ff",
+        "timestamp": "2025-04-28 14:57:27",
+        "error_type": "ValueError",
+        "error_message": "X has 9 features, but ColumnTransformer is expecting 6 features as input.",
+        "context": "prediction_flow",
+        "user_inputs": {},
+        "browser_info": "Unknown",
+        "app_version": "2.5.0"
+    },
+    {
+        "id": "2753d73b",
+        "timestamp": "2025-04-28 14:57:30",
+        "error_type": "ValueError",
+        "error_message": "X has 9 features, but ColumnTransformer is expecting 6 features as input.",
+        "context": "prediction_flow",
+        "user_inputs": {},
+        "browser_info": "Unknown",
+        "app_version": "2.5.0"
+    },
+    {
+        "id": "fa3086fc",
+        "timestamp": "2025-04-28 14:58:06",
+        "error_type": "ValueError",
+        "error_message": "X has 9 features, but ColumnTransformer is expecting 6 features as input.",
+        "context": "prediction_flow",
+        "user_inputs": {},
+        "browser_info": "Unknown",
+        "app_version": "2.5.0"
+    },
+    {
+        "id": "f6a0964e",
+        "timestamp": "2025-04-28 15:11:35",
+        "error_type": "ValueError",
+        "error_message": "X has 9 features, but ColumnTransformer is expecting 6 features as input.",
+        "context": "prediction_flow",
+        "user_inputs": {},
+        "browser_info": "Unknown",
+        "app_version": "2.5.0"
+    },
+    {
+        "id": "b9d5eaee",
+        "timestamp": "2025-04-28 15:18:47",
+        "error_type": "ValueError",
+        "error_message": "Specifying the columns using strings is only supported for pandas DataFrames",
+        "context": "prediction_flow",
+        "user_inputs": {},
+        "browser_info": "Unknown",
+        "app_version": "2.5.0"
+    },
+    {
+        "id": "278ed7c0",
+        "timestamp": "2025-04-28 15:19:18",
+        "error_type": "ValueError",
+        "error_message": "could not convert string to float: 'male'",
+        "context": "visualization_page",
+        "user_inputs": {},
+        "browser_info": "Unknown",
+        "app_version": "2.5.0"
+    },
+    {
+        "id": "4e6d40f3",
+        "timestamp": "2025-04-28 15:20:06",
+        "error_type": "ValueError",
+        "error_message": "could not convert string to float: 'male'",
+        "context": "visualization_page",
+        "user_inputs": {},
+        "browser_info": "Unknown",
+        "app_version": "2.5.0"
+    }
+]
