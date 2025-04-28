@@ -428,5 +428,315 @@
         "user_inputs": {},
         "browser_info": "Unknown",
         "app_version": "2.5.0"
+    },
+    {
+        "id": "f339b3d9",
+        "timestamp": "2025-04-28 15:32:12",
+        "error_type": "ValueError",
+        "error_message": "could not convert string to float: 'male'",
+        "context": "visualization_page",
+        "user_inputs": {},
+        "browser_info": "Unknown",
+        "app_version": "2.5.0"
+    },
+    {
+        "id": "1ec879c3",
+        "timestamp": "2025-04-28 15:36:34",
+        "error_type": "ValueError",
+        "error_message": "could not convert string to float: 'male'",
+        "context": "visualization_page",
+        "user_inputs": {},
+        "browser_info": "Unknown",
+        "app_version": "2.5.0"
+    },
+    {
+        "id": "205146f8",
+        "timestamp": "2025-04-28 15:37:04",
+        "error_type": "ValueError",
+        "error_message": "could not convert string to float: 'male'",
+        "context": "visualization_page",
+        "user_inputs": {},
+        "browser_info": "Unknown",
+        "app_version": "2.5.0"
+    },
+    {
+        "id": "cd185bda",
+        "timestamp": "2025-04-28 15:42:06",
+        "error_type": "ValueError",
+        "error_message": "could not convert string to float: 'male'",
+        "context": "visualization_page",
+        "user_inputs": {},
+        "browser_info": "Unknown",
+        "app_version": "2.5.0"
+    },
+    {
+        "id": "131e57bc",
+        "timestamp": "2025-04-28 15:42:43",
+        "error_type": "ValueError",
+        "error_message": "could not convert string to float: 'male'",
+        "context": "visualization_page",
+        "user_inputs": {},
+        "browser_info": "Unknown",
+        "app_version": "2.5.0"
+    },
+    {
+        "id": "e928cc8c",
+        "timestamp": "2025-04-28 15:42:49",
+        "error_type": "ValueError",
+        "error_message": "could not convert string to float: 'male'",
+        "context": "visualization_page",
+        "user_inputs": {},
+        "browser_info": "Unknown",
+        "app_version": "2.5.0"
+    },
+    {
+        "id": "b87fa4e5",
+        "timestamp": "2025-04-28 15:43:13",
+        "error_type": "ValueError",
+        "error_message": "could not convert string to float: 'male'",
+        "context": "visualization_page",
+        "user_inputs": {},
+        "browser_info": "Unknown",
+        "app_version": "2.5.0"
+    },
+    {
+        "id": "15dfdf9a",
+        "timestamp": "2025-04-28 16:32:39",
+        "error_type": "ValueError",
+        "error_message": "could not convert string to float: 'male'",
+        "context": "visualization_page",
+        "user_inputs": {},
+        "browser_info": "Unknown",
+        "app_version": "2.5.0"
+    },
+    {
+        "id": "9ca42deb",
+        "timestamp": "2025-04-28 16:32:41",
+        "error_type": "ValueError",
+        "error_message": "Invalid format specifier",
+        "context": "history_page",
+        "user_inputs": {},
+        "browser_info": "Unknown",
+        "app_version": "2.5.0"
+    },
+    {
+        "id": "c9933bc9",
+        "timestamp": "2025-04-28 16:32:58",
+        "error_type": "ValueError",
+        "error_message": "could not convert string to float: 'male'",
+        "context": "visualization_page",
+        "user_inputs": {},
+        "browser_info": "Unknown",
+        "app_version": "2.5.0"
+    },
+    {
+        "id": "a4245122",
+        "timestamp": "2025-04-28 16:33:34",
+        "error_type": "ValueError",
+        "error_message": "could not convert string to float: 'male'",
+        "context": "visualization_page",
+        "user_inputs": {},
+        "browser_info": "Unknown",
+        "app_version": "2.5.0"
+    },
+    {
+        "id": "aef8b903",
+        "timestamp": "2025-04-28 16:33:41",
+        "error_type": "ValueError",
+        "error_message": "could not convert string to float: 'male'",
+        "context": "visualization_page",
+        "user_inputs": {},
+        "browser_info": "Unknown",
+        "app_version": "2.5.0"
+    },
+    {
+        "id": "ec890ad3",
+        "timestamp": "2025-04-28 16:46:37",
+        "error_type": "ValueError",
+        "error_message": "could not convert string to float: 'male'",
+        "context": "visualization_page",
+        "user_inputs": {},
+        "browser_info": "Unknown",
+        "app_version": "2.5.0"
+    },
+    {
+        "id": "e4917973",
+        "timestamp": "2025-04-28 16:47:04",
+        "error_type": "ValueError",
+        "error_message": "could not convert string to float: 'male'",
+        "context": "visualization_page",
+        "user_inputs": {},
+        "browser_info": "Unknown",
+        "app_version": "2.5.0"
+    },
+    {
+        "id": "79e1ecb2",
+        "timestamp": "2025-04-28 16:47:08",
+        "error_type": "ValueError",
+        "error_message": "Invalid format specifier",
+        "context": "history_page",
+        "user_inputs": {},
+        "browser_info": "Unknown",
+        "app_version": "2.5.0"
+    },
+    {
+        "id": "38e6a9e7",
+        "timestamp": "2025-04-28 16:47:11",
+        "error_type": "ValueError",
+        "error_message": "could not convert string to float: 'male'",
+        "context": "visualization_page",
+        "user_inputs": {},
+        "browser_info": "Unknown",
+        "app_version": "2.5.0"
+    },
+    {
+        "id": "245695c7",
+        "timestamp": "2025-04-28 16:47:15",
+        "error_type": "ValueError",
+        "error_message": "could not convert string to float: 'male'",
+        "context": "visualization_page",
+        "user_inputs": {},
+        "browser_info": "Unknown",
+        "app_version": "2.5.0"
+    },
+    {
+        "id": "6e0a5424",
+        "timestamp": "2025-04-28 16:47:21",
+        "error_type": "ValueError",
+        "error_message": "could not convert string to float: 'male'",
+        "context": "visualization_page",
+        "user_inputs": {},
+        "browser_info": "Unknown",
+        "app_version": "2.5.0"
+    },
+    {
+        "id": "a5283ac6",
+        "timestamp": "2025-04-28 16:47:28",
+        "error_type": "ValueError",
+        "error_message": "could not convert string to float: 'male'",
+        "context": "visualization_page",
+        "user_inputs": {},
+        "browser_info": "Unknown",
+        "app_version": "2.5.0"
+    },
+    {
+        "id": "48a6a204",
+        "timestamp": "2025-04-28 16:48:04",
+        "error_type": "ValueError",
+        "error_message": "could not convert string to float: 'male'",
+        "context": "visualization_page",
+        "user_inputs": {},
+        "browser_info": "Unknown",
+        "app_version": "2.5.0"
+    },
+    {
+        "id": "ac289dfc",
+        "timestamp": "2025-04-28 16:53:05",
+        "error_type": "ValueError",
+        "error_message": "could not convert string to float: 'male'",
+        "context": "visualization_page",
+        "user_inputs": {},
+        "browser_info": "Unknown",
+        "app_version": "2.5.0"
+    },
+    {
+        "id": "d6a1bb6f",
+        "timestamp": "2025-04-28 16:54:16",
+        "error_type": "ValueError",
+        "error_message": "could not convert string to float: 'male'",
+        "context": "visualization_page",
+        "user_inputs": {},
+        "browser_info": "Unknown",
+        "app_version": "2.5.0"
+    },
+    {
+        "id": "af0c3b27",
+        "timestamp": "2025-04-28 16:54:17",
+        "error_type": "ValueError",
+        "error_message": "Invalid format specifier",
+        "context": "history_page",
+        "user_inputs": {},
+        "browser_info": "Unknown",
+        "app_version": "2.5.0"
+    },
+    {
+        "id": "198e0cf4",
+        "timestamp": "2025-04-28 16:55:27",
+        "error_type": "ValueError",
+        "error_message": "could not convert string to float: 'male'",
+        "context": "visualization_page",
+        "user_inputs": {},
+        "browser_info": "Unknown",
+        "app_version": "2.5.0"
+    },
+    {
+        "id": "07ecda1d",
+        "timestamp": "2025-04-28 16:55:28",
+        "error_type": "ValueError",
+        "error_message": "Invalid format specifier",
+        "context": "history_page",
+        "user_inputs": {},
+        "browser_info": "Unknown",
+        "app_version": "2.5.0"
+    },
+    {
+        "id": "73d69da9",
+        "timestamp": "2025-04-28 16:55:59",
+        "error_type": "ValueError",
+        "error_message": "could not convert string to float: 'male'",
+        "context": "visualization_page",
+        "user_inputs": {},
+        "browser_info": "Unknown",
+        "app_version": "2.5.0"
+    },
+    {
+        "id": "1704010d",
+        "timestamp": "2025-04-28 17:01:37",
+        "error_type": "ValueError",
+        "error_message": "could not convert string to float: 'male'",
+        "context": "visualization_page",
+        "user_inputs": {},
+        "browser_info": "Unknown",
+        "app_version": "2.5.0"
+    },
+    {
+        "id": "3a423c10",
+        "timestamp": "2025-04-28 17:14:42",
+        "error_type": "ValueError",
+        "error_message": "Invalid format specifier",
+        "context": "history_page",
+        "user_inputs": {},
+        "browser_info": "Unknown",
+        "app_version": "2.5.0"
+    },
+    {
+        "id": "0bfb9691",
+        "timestamp": "2025-04-28 17:14:46",
+        "error_type": "ValueError",
+        "error_message": "could not convert string to float: 'male'",
+        "context": "visualization_page",
+        "user_inputs": {},
+        "browser_info": "Unknown",
+        "app_version": "2.5.0"
+    },
+    {
+        "id": "ff041eb0",
+        "timestamp": "2025-04-28 17:14:53",
+        "error_type": "ValueError",
+        "error_message": "could not convert string to float: 'male'",
+        "context": "visualization_page",
+        "user_inputs": {},
+        "browser_info": "Unknown",
+        "app_version": "2.5.0"
+    },
+    {
+        "id": "7bfbc38f",
+        "timestamp": "2025-04-28 18:08:58",
+        "error_type": "ValueError",
+        "error_message": "Invalid format specifier",
+        "context": "history_page",
+        "user_inputs": {},
+        "browser_info": "Unknown",
+        "app_version": "2.5.0"
     }
 ]

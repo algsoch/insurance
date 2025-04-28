@@ -1,0 +1,86 @@
+[
+    {
+        "id": "c1604d98",
+        "timestamp": "2025-04-28 15:31:55",
+        "inputs": {
+            "age": 30,
+            "sex": "male",
+            "bmi": 25.0,
+            "children": 0,
+            "smoker": "no",
+            "region": "northeast"
+        },
+        "prediction": 4186.774231687633,
+        "model_version": "v1"
+    },
+    {
+        "id": "044d3d12",
+        "timestamp": "2025-04-28 15:36:42",
+        "inputs": {
+            "age": 30,
+            "sex": "male",
+            "bmi": 25.0,
+            "children": 0,
+            "smoker": "no",
+            "region": "northeast"
+        },
+        "prediction": 4186.774231687633,
+        "model_version": "v1"
+    },
+    {
+        "id": "94722620",
+        "timestamp": "2025-04-28 16:32:26",
+        "inputs": {
+            "age": 30,
+            "sex": "male",
+            "bmi": 25.0,
+            "children": 0,
+            "smoker": "no",
+            "region": "northeast"
+        },
+        "prediction": 4186.774231687633,
+        "model_version": "v1"
+    },
+    {
+        "id": "1eef76eb",
+        "timestamp": "2025-04-28 16:52:31",
+        "inputs": {
+            "age": 30,
+            "sex": "male",
+            "bmi": 25.0,
+            "children": 0,
+            "smoker": "no",
+            "region": "northeast"
+        },
+        "prediction": 4186.774231687633,
+        "model_version": "v1"
+    },
+    {
+        "id": "7639b10c",
+        "timestamp": "2025-04-28 16:52:48",
+        "inputs": {
+            "age": 30,
+            "sex": "male",
+            "bmi": 25.0,
+            "children": 0,
+            "smoker": "no",
+            "region": "northeast"
+        },
+        "prediction": 4186.774231687633,
+        "model_version": "v1"
+    },
+    {
+        "id": "ca26324d",
+        "timestamp": "2025-04-28 18:08:44",
+        "inputs": {
+            "age": 30,
+            "sex": "male",
+            "bmi": 25.0,
+            "children": 0,
+            "smoker": "no",
+            "region": "northeast"
+        },
+        "prediction": 4186.774231687633,
+        "model_version": "v1"
+    }
+]
