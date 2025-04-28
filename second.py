@@ -1144,10 +1144,6 @@ if selected == "Predict":
                 <div style="display: flex; width: 100%; height: 30px; border-radius: 5px; overflow: hidden; margin-bottom: 5px;">
                     <div style="flex-grow: 1; background-color: #81D4FA; text-align: center; padding: 5px 0; font-size: 0.8rem; color: #0D47A1; font-weight: 600; font-family: 'Segoe UI', Arial, sans-serif;">Underweight</div>
                     <div style="flex-grow: 1; background-color: #A5D6A7; text-align: center; padding: 5px 0; font-size: 0.8rem; color: #1B5E20; font-weight: 600; font-family: 'Segoe UI', Arial, sans-serif;">Normal</div>
-                <p style="font-weight: 500; font-family: 'Segoe UI', Arial, sans-serif; margin-bottom: 8px;">BMI Scale:</p>
-                <div style="display: flex; width: 100%; height: 30px; border-radius: 5px; overflow: hidden; margin-bottom: 5px;">
-                    <div style="flex-grow: 1; background-color: #81D4FA; text-align: center; padding: 5px 0; font-size: 0.8rem; color: #0D47A1; font-weight: 600; font-family: 'Segoe UI', Arial, sans-serif;">Underweight</div>
-                    <div style="flex-grow: 1; background-color: #A5D6A7; text-align: center; padding: 5px 0; font-size: 0.8rem; color: #1B5E20; font-weight: 600; font-family: 'Segoe UI', Arial, sans-serif;">Normal</div>
                     <div style="flex-grow: 1; background-color: #FFE082; text-align: center; padding: 5px 0; font-size: 0.8rem; color: #FF6F00; font-weight: 600; font-family: 'Segoe UI', Arial, sans-serif;">Overweight</div>
                     <div style="flex-grow: 1; background-color: #FFAB91; text-align: center; padding: 5px 0; font-size: 0.8rem; color: #BF360C; font-weight: 600; font-family: 'Segoe UI', Arial, sans-serif;">Obese</div>
                 </div>
